@@ -12,3 +12,14 @@
 - 🤔 I’m looking for help with <b>Django Rest Framework, Rest API's</b>
 - 💬 Ask me about <b>Anything</b>
 <hr>
+
+
+<div align="center">
+  
+![Dishant's Github Stats](https://github-readme-stats.vercel.app/api?username=DishantIsrani&show_icons=true&theme=Gradient)
+
+<div align="center"><hr width=34%></div>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DishantIsrani) 
+
+</div>

@@ -1,9 +1,14 @@
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg"/></p>
 <h1 align="center">Hey 👋, I'm Dishant Israni</h1>
 <p align="center">A third year undergrad at Thadomal Shahani Engineering College. Actively learning and acquiring on demand skills.</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/dishantisrani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dishantisrani/" height="30" width="30" /></a>
-</p>
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-DishantIsrani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DishantIsrani/)](https://www.linkedin.com/in/dishantisrani/)
+[![Gmail Badge](https://img.shields.io/badge/-isranidishant14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isranidishant14@gmail.com)](mailto:isranidishant14@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-green?style=flat-square&logo=google-chrome&logoColor=white&link=https://dishantisrani.github.io/Dishant-Portfolio/)](https://dishantisrani.github.io/Dishant-Portfolio/)
+
+</div>
 
 ### Few things about me
 
@@ -21,5 +26,11 @@
 <div align="center"><hr width=34%></div>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DishantIsrani) 
+
+<div align="center"><hr width=34%></div>
+
+[![Dishant's github activity graph](https://activity-graph.herokuapp.com/graph?username=DishantIsrani&theme=xcode)](https://git.io/DishantIsrani)
+
+<div align="center"><hr width=34%></div>
 
 </div>

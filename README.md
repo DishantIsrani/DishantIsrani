@@ -24,9 +24,6 @@
   
 ![Dishant's Github Stats](https://github-readme-stats.vercel.app/api?username=DishantIsrani&show_icons=true&theme=Gradient)
 
-<div align="center"><hr width=34%></div>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DishantIsrani) 
 
 <div align="center"><hr width=34%></div>
 

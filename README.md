@@ -31,9 +31,4 @@
 
 <div align="center"><hr width=34%></div>
 
-<h3 align="center">You are visitor</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/DishantIsrani/count.svg" alt="vistor count" height="50" /></p>
-
-<div align="center"><hr width=34%></div>
-
 </div>

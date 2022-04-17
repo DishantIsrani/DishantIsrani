@@ -27,8 +27,8 @@
 
 <div align="center"><hr width=34%></div>
 
-[![Dishant's github activity graph](https://activity-graph.herokuapp.com/graph?username=DishantIsrani&theme=xcode)](https://git.io/DishantIsrani)
+<!-- [![Dishant's github activity graph](https://activity-graph.herokuapp.com/graph?username=DishantIsrani&theme=xcode)](https://git.io/DishantIsrani)
 
-<div align="center"><hr width=34%></div>
+<div align="center"><hr width=34%></div> -->
 
 </div>

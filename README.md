@@ -13,8 +13,8 @@
 ### Few things about me
 
 - 🌱 I’m pursuing my <b>Masters of Science in Computer Science at the University of Southern California. </b>
-- 🔭 I’m currently working with <b>Django, Django Rest Framework</b>
-- 🤔 I’m looking for help with <b>Django Rest Framework, Rest API's</b>
+- 🔭 I’m currently working with <b>MEAN Stack and App Development Using Java</b>
+- 🤔 I’m looking for help with <b>App Development</b>
 - 💬 Ask me about <b>Anything</b>
 <hr>
 

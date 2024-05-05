@@ -13,8 +13,8 @@
 ### Few things about me
 
 - 🌱 I’m pursuing my <b>Masters of Science in Computer Science at the University of Southern California. </b>
-- 🔭 I’m currently working with <b>MEAN Stack and App Development Using Java</b>
-- 🤔 I’m looking for help with <b>App Development</b>
+- 🔭 I’m currently working on <b>Full Stack Development and App Development Using Java</b>
+- 🤔 I’m looking for help with <b>Finding Internships for Summer 2024</b>
 - 💬 Ask me about <b>Anything</b>
 <hr>
 
